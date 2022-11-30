@@ -6,7 +6,7 @@
 
 ## About
 
-![](assets/image/demo.gif)
+![](assets/img/demo.gif)
 
 A get in touch card.
 
